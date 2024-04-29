@@ -1,7 +1,7 @@
 ## Elvis Nkosi
-### Software Developer | Passionate About Code 🚀
+### Full-Stack Developer | Passionate About Code 🚀
 
-👋 Hello, I'm Elvis Nkosi, a software developer with a passion for crafting elegant and efficient code. I thrive on turning ideas into functional and user-friendly applications. 
+👋 Hello, I'm Elvis Nkosi, a full-stack developer developer with a passion for crafting elegant and efficient code. I thrive on turning ideas into functional and user-friendly applications. 
 
 🖥️ I'm experienced in a variety of programming languages and technologies, with a focus on web and mobile development. I love creating solutions that make a positive impact and bring value to users.
 
