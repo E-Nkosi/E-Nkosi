@@ -1,10 +1,36 @@
 ## Elvis Nkosi
-### Full-Stack Developer | Passionate About Code 🚀
+### Founder | Full-Stack Developer | AI & SaaS Builder 🚀
 
-👋 Hello, I'm Elvis Nkosi, a full-stack developer developer with a passion for crafting elegant and efficient code. I thrive on turning ideas into functional and user-friendly applications. 
+👋 Hi, I'm Elvis Nkosi — a full-stack developer, technology entrepreneur, and product builder focused on creating powerful digital platforms.
 
-🖥️ I'm experienced in a variety of programming languages and technologies, with a focus on web and mobile development. I love creating solutions that make a positive impact and bring value to users.
+I specialize in building **scalable SaaS products, AI-powered applications, and data-driven platforms** across industries including **mining technology, film production, and enterprise software**.
 
-🌟 Let's collaborate and create amazing software together! Check out my repositories and feel free to reach out for projects or discussions.
+### 🚀 What I'm Currently Building
+- **MiningBI** – AI-powered mining intelligence and analytics platform
+- **Cinebudgets** – AI-powered film budgeting SaaS (alternative to Movie Magic Budgeting)
+- **Revaix** – Next-generation AI productivity and automation platform
+- **AnthSeb Technologies** – Software development company focused on modern digital solutions
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/elvisnkosi/) | [Twitter](https://twitter.com/elvisnkosi
+### 🛠 Tech Stack
+- **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3
+- **Backend:** Node.js, Express
+- **Database:** SQL Server, PostgreSQL
+- **Other:** AI Integration, API Development, SaaS Architecture, Cloud Deployment
+
+### 💡 Interests
+- Artificial Intelligence
+- SaaS Product Development
+- Mining Technology & Data Platforms
+- Film Production Technology
+- Startup Innovation
+
+### 🤝 Collaboration
+I'm always open to collaborating on **innovative software projects, AI tools, and scalable SaaS platforms.**
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/elvisnkosi/
+- Twitter/X: https://twitter.com/elvisnkosi
+- Website: (coming soon)
+
+---
+⭐ *Building technology that solves real-world problems.*
