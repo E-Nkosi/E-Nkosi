@@ -1,5 +1,5 @@
 ## Elvis Nkosi
-###| Full-Stack Software Engineer| AI & SaaS Builder 🚀
+| Full-Stack Software Engineer| AI & SaaS Builder 🚀
 
 👋 Hi, I'm Elvis Nkosi — a full-stack softwsre engineer, technology entrepreneur, and product builder focused on creating powerful digital platforms.
 
