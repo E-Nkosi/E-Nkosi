@@ -1,7 +1,7 @@
 ## Elvis Nkosi
-### Founder | Full-Stack Developer | AI & SaaS Builder 🚀
+###| Full-Stack Software Engineer| AI & SaaS Builder 🚀
 
-👋 Hi, I'm Elvis Nkosi — a full-stack developer, technology entrepreneur, and product builder focused on creating powerful digital platforms.
+👋 Hi, I'm Elvis Nkosi — a full-stack softwsre engineer, technology entrepreneur, and product builder focused on creating powerful digital platforms.
 
 I specialize in building **scalable SaaS products, AI-powered applications, and data-driven platforms** across industries including **mining technology, film production, and enterprise software**.
 
@@ -30,7 +30,7 @@ I'm always open to collaborating on **innovative software projects, AI tools, an
 ### 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/elvisnkosi/
 - Twitter/X: https://twitter.com/elvisnkosi
-- Website: (coming soon)
+- Website: www.anthseb.co.za
 
 ---
 ⭐ *Building technology that solves real-world problems.*
