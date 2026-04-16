@@ -30,7 +30,7 @@ I'm always open to collaborating on **innovative software projects, AI tools, an
 ### 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/elvisnkosi/
 - Twitter/X: https://twitter.com/elvisnkosi
-- Website: www.anthseb.co.za
+- Website: https://e-nkosi.github.io/
 
 ---
 ⭐ *Building technology that solves real-world problems.*
